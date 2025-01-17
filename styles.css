@@ -1,4 +1,4 @@
-p{
+p {
 	font-family: 'Arial';
 	font-size: 15px;
 }
@@ -18,7 +18,7 @@ h1 {
 	font-size: 30px;
 }
 
-li{
+li {
 	font-family: 'Arial';
 	font-size: 20px;
 }
@@ -31,4 +31,9 @@ div.center {
 	background: #ffffff;
 	position: absolute;
 	z-index: -1
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
