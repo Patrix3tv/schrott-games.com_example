@@ -1,8 +1,9 @@
 # Schrott-Games.com
 An example website for the original website
 
-Original link:
-example link:
+Original link: https://schrott-games.com/
+
+example link: https://patrix3tv.github.io/schrott-games.com_example/
 
 # Projects for the future:
 - news page
