@@ -35,5 +35,21 @@ div.center {
 
 a {
   text-decoration: none;
-  color: black;
+  color: blue;
+}
+
+table {
+  width: 100%;
+}
+
+tr.old {
+  background-color: #c4c4c4;
+}
+
+tr.back {
+  background-color: #90ee90;
+}
+
+tr.update {
+  background-color: #e8ee90;
 }
